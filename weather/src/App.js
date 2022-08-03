@@ -5,6 +5,7 @@ import IconWeather from "./IconWeather";
 import Date from "./Date";
 import Description from "./Description";
 import Forecast from "./Forecast";
+import "bootstrap/dist/css/bootstrap.css";
 
 export default function App() {
   return (
