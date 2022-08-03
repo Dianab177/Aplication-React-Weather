@@ -36,3 +36,9 @@ li {
   display: flex;
   justify-content: center;
 }
+.weather-link a{
+  color: salmon;
+}
+.weather-link a:hover{
+  color: #56515e;
+}
